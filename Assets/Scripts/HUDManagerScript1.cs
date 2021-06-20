@@ -1,14 +1,15 @@
 ﻿using System.Collections;
+using System.Globalization;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using InfinityCode.RealWorldTerrain;
 
 public class HUDManagerScript1 : MonoBehaviour
 {
     [SerializeField] Dropdown _dropTarget;
-    //[SerializeField] InputField _edtVAwal;
+    [SerializeField] InputField _edtVAwal;
     [SerializeField] InputField _edtSudut;
+    [SerializeField] InputField _edtGravity;
     [SerializeField] InputField _edtLong;
     [SerializeField] InputField _edtLat;
     //[SerializeField] Text _dropText;
@@ -16,12 +17,14 @@ public class HUDManagerScript1 : MonoBehaviour
     //private Vector3 currentEulerAngles, SliderY;
     [SerializeField] GameObject selongsong;
     [SerializeField] GameObject maincam;
+    PhysicsManagerScript _phy;
 
     //private int valDDTarget;
-    private double selongsongRotX, selongsongRotY, selongsongRotZ, sudutTeta, dariDD;
+    private double selongsongRotX, selongsongRotY, selongsongRotZ, sudutTeta;
+    private float dariDD;
 
     void Start() {
-
+        _phy = GameObject.FindObjectOfType<PhysicsManagerScript>();
     }
 
     void Update() {
@@ -36,7 +39,7 @@ public class HUDManagerScript1 : MonoBehaviour
 
         gerakSelongsong(selongsongRotX, sudutTeta, dariDD, selongsongRotZ);
 
-        _edtSudut.text = string.Format("{0:N2}",dariDD);
+        _edtSudut.text = string.Format("{0:N2}",sudutTeta);
         //Debug.Log("Dropdown Value: "+valDDTarget);
         //Debug.Log("nilai rotasi x: "+selongsongRotX);
         //Debug.Log("nilai rotasi y: "+selongsongRotY);
@@ -49,14 +52,16 @@ public class HUDManagerScript1 : MonoBehaviour
             case 1:
                 _edtLong.text = "105.351";
                 _edtLat.text = "-6.76";
-                dariDD = -45.162;
+                dariDD = -50.854f;
                 maincam.transform.localEulerAngles = new Vector3(0, 127.875f, 0);
+                _phy.dapatSudut("MarkasA");
                 break;
             case 2:
                 _edtLong.text = "105.3691";
                 _edtLat.text = "-6.754";
-                dariDD = 0;
+                dariDD = -7.471f;
                 maincam.transform.localEulerAngles = new Vector3(0, 172.922f, 0);
+                _phy.dapatSudut("MarkasB");
                 break;
             default:
                 Debug.Log("DEFAULT");
@@ -64,13 +69,30 @@ public class HUDManagerScript1 : MonoBehaviour
         }  
     }
 
-    private void gerakSelongsong(double _x, double _xx, double _y, double _z){
+    private void gerakSelongsong(double _x, double _xx, float _y, double _z){
         if (_x != _xx){
-            selongsong.transform.localEulerAngles = new Vector3((float)_xx,  (float)_y, (float)_z);
+            selongsong.transform.localEulerAngles = new Vector3((float)_xx,  _y, (float)_z);
         }else
         {
-            selongsong.transform.localEulerAngles = new Vector3((float)_x, (float)_y, (float)_z);
+            selongsong.transform.localEulerAngles = new Vector3((float)_x, _y, (float)_z);
         }
+    }
+    
+    public float getVAwal(){
+        int temp = int.Parse(_edtVAwal.text);
+        return (float)temp;
+    }
+
+    public float getSudut(){
+        return float.Parse(_edtSudut.text, CultureInfo.InvariantCulture.NumberFormat);
+    }
+
+    public float getSudutPutar(){
+        return dariDD;
+    }
+
+    public float getUrativity(){
+        return float.Parse(_edtGravity.text, CultureInfo.InvariantCulture.NumberFormat);
     }
 
     /*
@@ -137,13 +159,7 @@ public class HUDManagerScript1 : MonoBehaviour
         Debug.Log("RealWorld="+pos1);
     }
 
-    public int getVAwal(){
-        return int.Parse(_edtVAwal.text);
-    }
-
-    public int getSudut(){
-        return int.Parse(_edtSudut.text);
-    }
+    
 
     public double getLong(){
         return double.Parse(_edtLong.text);

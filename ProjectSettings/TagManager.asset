@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Bullet
   - Land
+  - HUD
+  - Enemy
   layers:
   - Default
   - TransparentFX

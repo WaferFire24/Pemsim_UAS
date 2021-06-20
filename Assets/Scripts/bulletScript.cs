@@ -5,15 +5,24 @@ using InfinityCode.RealWorldTerrain;
 
 public class bulletScript : MonoBehaviour
 {
-    public float vAwal, a, g;
+    public float vAwal, a, g, arah;
     [HideInInspector] float t = 0;
-    [HideInInspector] float timeScale = 0.2f;
+    [HideInInspector] float timeScale = 1f;
     [SerializeField] GameObject delThis;
+    private Vector3 posAwal;
+    
+    void Start() {
+        posAwal = delThis.transform.position;
+    }
     
     void Update()
     {
         t += Time.deltaTime * timeScale;
-        transform.position = posBullet(vAwal, t, a, g);
+        transform.position = posBullet(vAwal, t, a, g, arah);
+        if (transform.position.y < 13520.31f){
+            Debug.Log("Bullet out of VOID");
+            Destroy(delThis);
+        }
         //Instantiate(trace, transform.position, transform.rotation)
     }
     
@@ -21,26 +30,29 @@ public class bulletScript : MonoBehaviour
         if (other.tag == "Land"){
             Debug.Log("Bullet landed");
             Destroy(delThis);
+        }else if (other.tag == "Enemy"){
+            Debug.Log("Enemy Down!");
+            Destroy(delThis);
         }
     }
     
-    Vector3 posBullet(float _v, float _t, float _a, float _g)
+    Vector3 posBullet(float _v, float _t, float _a, float _g, float _ar)
     {
         return new Vector3(
-            transform.position.x + calcX(_v, _t, _a),
-            calcY(_v, _t, _a, _g) + transform.position.y ,
-            calcZ(_v, _t, _a) + transform.position.z
+            posAwal.x + calcX(_v, _t, _ar),
+            calcY(_v, _t, _a, _g) + posAwal.y ,
+            calcZ(_v, _t, _ar) + posAwal.z
         );
     }
 
     float calcX(float _v, float _t, float _a)
     {
-        return _v * _t * Mathf.Cos(_a * Mathf.PI /180);
+        return _v * _t * Mathf.Sin(_a * Mathf.PI /180);
     }
 
     float calcZ(float _v, float _t, float _a)
     {
-        return _v * _t * Mathf.Sin(_a * Mathf.PI / 180);
+        return _v * _t * Mathf.Cos(_a * Mathf.PI / 180);
     }
 
     float calcY(float _v, float _t, float _a, float _g)
@@ -49,7 +61,7 @@ public class bulletScript : MonoBehaviour
     }
 
     /*
-        float calcYMax(float _v, float _a, float _g)
+    float calcYMax(float _v, float _a, float _g)
     {
         return (Mathf.Pow(_v,2) * Mathf.Pow(Mathf.Sin(_a * Mathf.PI / 180),2)) / (2 * _g);
     }

@@ -1,0 +1,1446 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-06-21T02:12:51.398+07:00
+  initializedAtString: 2021-06-21T01:22:11.391+07:00
+  entries:
+  - path: Assets\Plugins.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\MainScene.unity
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Scenes\MainScene.unity
+    projectPath: Assets\Scenes\MainScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\bulletScript.cs
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Scripts\bulletScript.cs
+    projectPath: Assets\Scripts\bulletScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\FiringCalScript.cs
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Scripts\FiringCalScript.cs
+    projectPath: Assets\Scripts\FiringCalScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\HUDManagerScript1.cs
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Scripts\HUDManagerScript1.cs
+    projectPath: Assets\Scripts\HUDManagerScript1.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\PhysicsManagerScript.cs
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Scripts\PhysicsManagerScript.cs
+    projectPath: Assets\Scripts\PhysicsManagerScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PhysicsManagerScript.cs.meta
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Assets\Scripts\PhysicsManagerScript.cs.meta
+    projectPath: Assets\Scripts\PhysicsManagerScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\02\0288ed2c0a183ea39ad1e693a99fe5f9
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\02\0288ed2c0a183ea39ad1e693a99fe5f9
+    projectPath: Library\Artifacts\02\0288ed2c0a183ea39ad1e693a99fe5f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0b\0b4e23f14135fa506cd677eff178737a
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\0b\0b4e23f14135fa506cd677eff178737a
+    projectPath: Library\Artifacts\0b\0b4e23f14135fa506cd677eff178737a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0d\0dfba29721d33e3f5a9d9fa04bbf20bd
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\0d\0dfba29721d33e3f5a9d9fa04bbf20bd
+    projectPath: Library\Artifacts\0d\0dfba29721d33e3f5a9d9fa04bbf20bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\130b8d185a7dbaa298ed184da65f44bc
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\13\130b8d185a7dbaa298ed184da65f44bc
+    projectPath: Library\Artifacts\13\130b8d185a7dbaa298ed184da65f44bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\14\14b2d127566e9fce3139f6fc6c6bf56f
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\14\14b2d127566e9fce3139f6fc6c6bf56f
+    projectPath: Library\Artifacts\14\14b2d127566e9fce3139f6fc6c6bf56f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\15\15755c29f4b5132be0c40238bb994593
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\15\15755c29f4b5132be0c40238bb994593
+    projectPath: Library\Artifacts\15\15755c29f4b5132be0c40238bb994593
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\17\17bc07332952ddde5531e8cabcc4d2d7
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\17\17bc07332952ddde5531e8cabcc4d2d7
+    projectPath: Library\Artifacts\17\17bc07332952ddde5531e8cabcc4d2d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\19\1993c2f0e67d0a98da7371cb403c8d70
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\19\1993c2f0e67d0a98da7371cb403c8d70
+    projectPath: Library\Artifacts\19\1993c2f0e67d0a98da7371cb403c8d70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1a\1a0b924a23913ce50cf06dc77435e2bb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\1a\1a0b924a23913ce50cf06dc77435e2bb
+    projectPath: Library\Artifacts\1a\1a0b924a23913ce50cf06dc77435e2bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1b\1baf89fdf311ac4fe5c3504392a28a6f
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\1b\1baf89fdf311ac4fe5c3504392a28a6f
+    projectPath: Library\Artifacts\1b\1baf89fdf311ac4fe5c3504392a28a6f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1e\1e6813608ef3373a25aacf2eb0e3ebeb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\1e\1e6813608ef3373a25aacf2eb0e3ebeb
+    projectPath: Library\Artifacts\1e\1e6813608ef3373a25aacf2eb0e3ebeb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1f\1fa54e156ce546665d2352c8ce20ee22
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\1f\1fa54e156ce546665d2352c8ce20ee22
+    projectPath: Library\Artifacts\1f\1fa54e156ce546665d2352c8ce20ee22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\2047a5be679f3bd661ce3b54683c1a70
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\20\2047a5be679f3bd661ce3b54683c1a70
+    projectPath: Library\Artifacts\20\2047a5be679f3bd661ce3b54683c1a70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\23f8298340267ff7a1d1d40939de349b
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\23\23f8298340267ff7a1d1d40939de349b
+    projectPath: Library\Artifacts\23\23f8298340267ff7a1d1d40939de349b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\28\28a715b76718656cddb40356909f5bcd
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\28\28a715b76718656cddb40356909f5bcd
+    projectPath: Library\Artifacts\28\28a715b76718656cddb40356909f5bcd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d0a31eb729f240ee934a45ef448fecd
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\2d\2d0a31eb729f240ee934a45ef448fecd
+    projectPath: Library\Artifacts\2d\2d0a31eb729f240ee934a45ef448fecd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\31b723aad2aef5c8f7cb86ad9a47d734
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\31\31b723aad2aef5c8f7cb86ad9a47d734
+    projectPath: Library\Artifacts\31\31b723aad2aef5c8f7cb86ad9a47d734
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\31f29633ef7c6b2ea1069701123225b7
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\31\31f29633ef7c6b2ea1069701123225b7
+    projectPath: Library\Artifacts\31\31f29633ef7c6b2ea1069701123225b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\36\360e3dfe483b785b654c407db692209d
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\36\360e3dfe483b785b654c407db692209d
+    projectPath: Library\Artifacts\36\360e3dfe483b785b654c407db692209d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3b\3b00d10369c8e7df0648f85280b8a619
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\3b\3b00d10369c8e7df0648f85280b8a619
+    projectPath: Library\Artifacts\3b\3b00d10369c8e7df0648f85280b8a619
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3d634a2e75877b74190de65533255141
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\3d\3d634a2e75877b74190de65533255141
+    projectPath: Library\Artifacts\3d\3d634a2e75877b74190de65533255141
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\42\422920f7db87ca9500ad2f8c8fa30a3b
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\42\422920f7db87ca9500ad2f8c8fa30a3b
+    projectPath: Library\Artifacts\42\422920f7db87ca9500ad2f8c8fa30a3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\49ca85415b6d5a43a083eab4d7efd0c3
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\49\49ca85415b6d5a43a083eab4d7efd0c3
+    projectPath: Library\Artifacts\49\49ca85415b6d5a43a083eab4d7efd0c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\55\55ed5fdfd8c433d75b2abe87ae1a415c
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\55\55ed5fdfd8c433d75b2abe87ae1a415c
+    projectPath: Library\Artifacts\55\55ed5fdfd8c433d75b2abe87ae1a415c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5b6ed86a90bed138aab7d2bdce0dc6a2
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\5b\5b6ed86a90bed138aab7d2bdce0dc6a2
+    projectPath: Library\Artifacts\5b\5b6ed86a90bed138aab7d2bdce0dc6a2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5e\5e8cd5e96a4f57ae34d649116f18bfdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\5e\5e8cd5e96a4f57ae34d649116f18bfdb
+    projectPath: Library\Artifacts\5e\5e8cd5e96a4f57ae34d649116f18bfdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5f\5f7408e37bd0635c17adccf072f3cfaf
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\5f\5f7408e37bd0635c17adccf072f3cfaf
+    projectPath: Library\Artifacts\5f\5f7408e37bd0635c17adccf072f3cfaf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\66\669d8ea80d24deb3a55d32fffcba9405
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\66\669d8ea80d24deb3a55d32fffcba9405
+    projectPath: Library\Artifacts\66\669d8ea80d24deb3a55d32fffcba9405
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\69\6997f97c84b3753dbabca25d1be574a5
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\69\6997f97c84b3753dbabca25d1be574a5
+    projectPath: Library\Artifacts\69\6997f97c84b3753dbabca25d1be574a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\69\69a7ce2f0ae76feddfe4db7fe5a9bbdf
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\69\69a7ce2f0ae76feddfe4db7fe5a9bbdf
+    projectPath: Library\Artifacts\69\69a7ce2f0ae76feddfe4db7fe5a9bbdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6a\6ae88053e6831c52f06f2182e0d85734
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\6a\6ae88053e6831c52f06f2182e0d85734
+    projectPath: Library\Artifacts\6a\6ae88053e6831c52f06f2182e0d85734
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6c\6c92edf4ed8e870b09bf88164e45ea1a
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\6c\6c92edf4ed8e870b09bf88164e45ea1a
+    projectPath: Library\Artifacts\6c\6c92edf4ed8e870b09bf88164e45ea1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6f\6f1c79cdde890939a867c6f4463ab469
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\6f\6f1c79cdde890939a867c6f4463ab469
+    projectPath: Library\Artifacts\6f\6f1c79cdde890939a867c6f4463ab469
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\74\74eb56ea25943f65398ae42c5c096cb4
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\74\74eb56ea25943f65398ae42c5c096cb4
+    projectPath: Library\Artifacts\74\74eb56ea25943f65398ae42c5c096cb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7b\7b4d01a96e5f8a078fdddd33c681a017
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\7b\7b4d01a96e5f8a078fdddd33c681a017
+    projectPath: Library\Artifacts\7b\7b4d01a96e5f8a078fdddd33c681a017
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7e\7e125afda39d01b3a67d8114859b0552
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\7e\7e125afda39d01b3a67d8114859b0552
+    projectPath: Library\Artifacts\7e\7e125afda39d01b3a67d8114859b0552
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e79b11d28123b70b785817b298c82ed
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\8e\8e79b11d28123b70b785817b298c82ed
+    projectPath: Library\Artifacts\8e\8e79b11d28123b70b785817b298c82ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\90ae25290b67ce5ec3b83a7897bd54fa
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\90\90ae25290b67ce5ec3b83a7897bd54fa
+    projectPath: Library\Artifacts\90\90ae25290b67ce5ec3b83a7897bd54fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\921a704d2ce74dc305ddc5e5d76f0f2f
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\92\921a704d2ce74dc305ddc5e5d76f0f2f
+    projectPath: Library\Artifacts\92\921a704d2ce74dc305ddc5e5d76f0f2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\92d939c55e3ee50af11dca491a4c0389
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\92\92d939c55e3ee50af11dca491a4c0389
+    projectPath: Library\Artifacts\92\92d939c55e3ee50af11dca491a4c0389
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9a6d87114c7aa2e3b1529f04992a903d
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\9a\9a6d87114c7aa2e3b1529f04992a903d
+    projectPath: Library\Artifacts\9a\9a6d87114c7aa2e3b1529f04992a903d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a07af40447876fa2ad21011e2bb71ae9
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\a0\a07af40447876fa2ad21011e2bb71ae9
+    projectPath: Library\Artifacts\a0\a07af40447876fa2ad21011e2bb71ae9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a4\a4d0a1aedd3570dc08313514b9e5c511
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\a4\a4d0a1aedd3570dc08313514b9e5c511
+    projectPath: Library\Artifacts\a4\a4d0a1aedd3570dc08313514b9e5c511
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\ae17d2e45d9be4a0b317efd951ffd8bb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\ae\ae17d2e45d9be4a0b317efd951ffd8bb
+    projectPath: Library\Artifacts\ae\ae17d2e45d9be4a0b317efd951ffd8bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ae\ae954902fd08d981740177dd8dc2076f
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\ae\ae954902fd08d981740177dd8dc2076f
+    projectPath: Library\Artifacts\ae\ae954902fd08d981740177dd8dc2076f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\aed6c0b19d5d1d7e8b67b6f67df34491
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\ae\aed6c0b19d5d1d7e8b67b6f67df34491
+    projectPath: Library\Artifacts\ae\aed6c0b19d5d1d7e8b67b6f67df34491
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\aee1e638b34038a9c38b9b074c1684b4
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\ae\aee1e638b34038a9c38b9b074c1684b4
+    projectPath: Library\Artifacts\ae\aee1e638b34038a9c38b9b074c1684b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b7d9c78d95469ff8dfeacec1ea9986ce
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\b7\b7d9c78d95469ff8dfeacec1ea9986ce
+    projectPath: Library\Artifacts\b7\b7d9c78d95469ff8dfeacec1ea9986ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ba\bae7b818791ae82911500a451dabc0f9
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\ba\bae7b818791ae82911500a451dabc0f9
+    projectPath: Library\Artifacts\ba\bae7b818791ae82911500a451dabc0f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bd\bdda0439f62d5fd1ffd899052ea71132
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\bd\bdda0439f62d5fd1ffd899052ea71132
+    projectPath: Library\Artifacts\bd\bdda0439f62d5fd1ffd899052ea71132
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bf\bf9d6316de67e024ef72bee6d29f1de2
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\bf\bf9d6316de67e024ef72bee6d29f1de2
+    projectPath: Library\Artifacts\bf\bf9d6316de67e024ef72bee6d29f1de2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c2\c220f607aff3fa8acdcf975b152a6c98
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\c2\c220f607aff3fa8acdcf975b152a6c98
+    projectPath: Library\Artifacts\c2\c220f607aff3fa8acdcf975b152a6c98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c5\c57a4391b4a4ea5f06d07236eab1072d
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\c5\c57a4391b4a4ea5f06d07236eab1072d
+    projectPath: Library\Artifacts\c5\c57a4391b4a4ea5f06d07236eab1072d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c5\c5e767dfa7ba6f3692ade4c5ea081aff
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\c5\c5e767dfa7ba6f3692ade4c5ea081aff
+    projectPath: Library\Artifacts\c5\c5e767dfa7ba6f3692ade4c5ea081aff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c6eca8ae08d54e7138f1c324e443dc64
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\c6\c6eca8ae08d54e7138f1c324e443dc64
+    projectPath: Library\Artifacts\c6\c6eca8ae08d54e7138f1c324e443dc64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\cc2e488d56b0289ec009a8d2f0530027
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\cc\cc2e488d56b0289ec009a8d2f0530027
+    projectPath: Library\Artifacts\cc\cc2e488d56b0289ec009a8d2f0530027
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cf\cfd726bbf5fcec1806465e28cb048c75
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\cf\cfd726bbf5fcec1806465e28cb048c75
+    projectPath: Library\Artifacts\cf\cfd726bbf5fcec1806465e28cb048c75
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d6\d60bbb6bf5a5538147aaa67e91de173f
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\d6\d60bbb6bf5a5538147aaa67e91de173f
+    projectPath: Library\Artifacts\d6\d60bbb6bf5a5538147aaa67e91de173f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d9\d952ab6cfc27037f4bf382f9c6dcd70d
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\d9\d952ab6cfc27037f4bf382f9c6dcd70d
+    projectPath: Library\Artifacts\d9\d952ab6cfc27037f4bf382f9c6dcd70d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\da\dabe1c69b10f2f7d53553fd0a3291483
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\da\dabe1c69b10f2f7d53553fd0a3291483
+    projectPath: Library\Artifacts\da\dabe1c69b10f2f7d53553fd0a3291483
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dd\dd1f37b2fdbf136fa8f5e72ead5c5050
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\dd\dd1f37b2fdbf136fa8f5e72ead5c5050
+    projectPath: Library\Artifacts\dd\dd1f37b2fdbf136fa8f5e72ead5c5050
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dd\dde12a7511cef2844200ad8afe1434ea
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\dd\dde12a7511cef2844200ad8afe1434ea
+    projectPath: Library\Artifacts\dd\dde12a7511cef2844200ad8afe1434ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e1\e1a9ae1831890a35bb30af74c2277458
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\e1\e1a9ae1831890a35bb30af74c2277458
+    projectPath: Library\Artifacts\e1\e1a9ae1831890a35bb30af74c2277458
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e1\e1e14698dfe305b9ad544037e06d054d
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\e1\e1e14698dfe305b9ad544037e06d054d
+    projectPath: Library\Artifacts\e1\e1e14698dfe305b9ad544037e06d054d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e2\e21757b056e49050ef431f6c0c305a5b
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\e2\e21757b056e49050ef431f6c0c305a5b
+    projectPath: Library\Artifacts\e2\e21757b056e49050ef431f6c0c305a5b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e3\e3531caa9fc5e54e93d6f1d0174da9d5
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\e3\e3531caa9fc5e54e93d6f1d0174da9d5
+    projectPath: Library\Artifacts\e3\e3531caa9fc5e54e93d6f1d0174da9d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e4d8fcce92c040a93854c48cdd05ab02
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\e4\e4d8fcce92c040a93854c48cdd05ab02
+    projectPath: Library\Artifacts\e4\e4d8fcce92c040a93854c48cdd05ab02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\ef8929d1424b045574d773a46d3546ac
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\ef\ef8929d1424b045574d773a46d3546ac
+    projectPath: Library\Artifacts\ef\ef8929d1424b045574d773a46d3546ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fa\fa2f0a5eab7d24e1db13d91c49e9f4e3
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\Artifacts\fa\fa2f0a5eab7d24e1db13d91c49e9f4e3
+    projectPath: Library\Artifacts\fa\fa2f0a5eab7d24e1db13d91c49e9f4e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\041cee-mainStage.json
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\StateCache\Hierarchy\041cee-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\041cee-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\bdf77d-mainStage.json
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Library\StateCache\SceneView\bdf77d-mainStage.json
+    projectPath: Library\StateCache\SceneView\bdf77d-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TagManager.asset
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0b8705bb2a2cc0d46a24c1c0ae179397
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-0b8705bb2a2cc0d46a24c1c0ae179397
+    projectPath: Temp\UnityTempFile-0b8705bb2a2cc0d46a24c1c0ae179397
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0c91e3df1ee96994ba99c32e16994f7a
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-0c91e3df1ee96994ba99c32e16994f7a
+    projectPath: Temp\UnityTempFile-0c91e3df1ee96994ba99c32e16994f7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1b18e18b74280d7438d3958d99180aff
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-1b18e18b74280d7438d3958d99180aff
+    projectPath: Temp\UnityTempFile-1b18e18b74280d7438d3958d99180aff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1b8a528ed7b6ab0459e9551fd4aa8b59
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-1b8a528ed7b6ab0459e9551fd4aa8b59
+    projectPath: Temp\UnityTempFile-1b8a528ed7b6ab0459e9551fd4aa8b59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1da4577643e34514badf9efbbffdbe19
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-1da4577643e34514badf9efbbffdbe19
+    projectPath: Temp\UnityTempFile-1da4577643e34514badf9efbbffdbe19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-213217ddd26d56f49bc287c68bbba175
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-213217ddd26d56f49bc287c68bbba175
+    projectPath: Temp\UnityTempFile-213217ddd26d56f49bc287c68bbba175
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2ae3db2789e8d7c4db824208b990d07f
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-2ae3db2789e8d7c4db824208b990d07f
+    projectPath: Temp\UnityTempFile-2ae3db2789e8d7c4db824208b990d07f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2b37a1044661d4c4fb3e27ca9971b023
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-2b37a1044661d4c4fb3e27ca9971b023
+    projectPath: Temp\UnityTempFile-2b37a1044661d4c4fb3e27ca9971b023
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2e94e818f97276747853600210318a56
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-2e94e818f97276747853600210318a56
+    projectPath: Temp\UnityTempFile-2e94e818f97276747853600210318a56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-419b5d6de43657a498c7a3836f2769d3
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-419b5d6de43657a498c7a3836f2769d3
+    projectPath: Temp\UnityTempFile-419b5d6de43657a498c7a3836f2769d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-41f1bb8c984ef0e4ab61668331ad40b3
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-41f1bb8c984ef0e4ab61668331ad40b3
+    projectPath: Temp\UnityTempFile-41f1bb8c984ef0e4ab61668331ad40b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-49114a0d9c74df04882be9ed517086ba
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-49114a0d9c74df04882be9ed517086ba
+    projectPath: Temp\UnityTempFile-49114a0d9c74df04882be9ed517086ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-498edd6ac02f76d4dbdbcf6067235608
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-498edd6ac02f76d4dbdbcf6067235608
+    projectPath: Temp\UnityTempFile-498edd6ac02f76d4dbdbcf6067235608
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-502a28a8909bbee49afd3dc8e0f9b2cb
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-502a28a8909bbee49afd3dc8e0f9b2cb
+    projectPath: Temp\UnityTempFile-502a28a8909bbee49afd3dc8e0f9b2cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-549f83f42c7185b4abfaef461fc26709
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-549f83f42c7185b4abfaef461fc26709
+    projectPath: Temp\UnityTempFile-549f83f42c7185b4abfaef461fc26709
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5c92b85de5e53ae4e8924290f01ef8a2
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-5c92b85de5e53ae4e8924290f01ef8a2
+    projectPath: Temp\UnityTempFile-5c92b85de5e53ae4e8924290f01ef8a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-67c0e1bd67e9b5341a58e970f842d855
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-67c0e1bd67e9b5341a58e970f842d855
+    projectPath: Temp\UnityTempFile-67c0e1bd67e9b5341a58e970f842d855
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-682bf1578976b434387772ef108f6a18
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-682bf1578976b434387772ef108f6a18
+    projectPath: Temp\UnityTempFile-682bf1578976b434387772ef108f6a18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-99bf99e43937a15468e5e36da1418752
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-99bf99e43937a15468e5e36da1418752
+    projectPath: Temp\UnityTempFile-99bf99e43937a15468e5e36da1418752
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9bc9102ca11fa3e4d8a62fe1098e086d
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-9bc9102ca11fa3e4d8a62fe1098e086d
+    projectPath: Temp\UnityTempFile-9bc9102ca11fa3e4d8a62fe1098e086d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9f884669ff34509488d3f74ce72aea1c
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-9f884669ff34509488d3f74ce72aea1c
+    projectPath: Temp\UnityTempFile-9f884669ff34509488d3f74ce72aea1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a270eae0327c0cd4ca51c95d884297de
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-a270eae0327c0cd4ca51c95d884297de
+    projectPath: Temp\UnityTempFile-a270eae0327c0cd4ca51c95d884297de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b8a220878f05e0e4ca58b3958431d425
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-b8a220878f05e0e4ca58b3958431d425
+    projectPath: Temp\UnityTempFile-b8a220878f05e0e4ca58b3958431d425
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c24aa7eef3d646a42a37cfd24c3e5bbf
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-c24aa7eef3d646a42a37cfd24c3e5bbf
+    projectPath: Temp\UnityTempFile-c24aa7eef3d646a42a37cfd24c3e5bbf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c6819fb67a6bed8468bfc2758ee32ee6
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-c6819fb67a6bed8468bfc2758ee32ee6
+    projectPath: Temp\UnityTempFile-c6819fb67a6bed8468bfc2758ee32ee6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cf0582e2c13b8b543b8de2be1575262a
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-cf0582e2c13b8b543b8de2be1575262a
+    projectPath: Temp\UnityTempFile-cf0582e2c13b8b543b8de2be1575262a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d67c059867369d24193aa3b5b0c2c0ea
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-d67c059867369d24193aa3b5b0c2c0ea
+    projectPath: Temp\UnityTempFile-d67c059867369d24193aa3b5b0c2c0ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-db293140b7bcea240b9021d658fb2ca3
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-db293140b7bcea240b9021d658fb2ca3
+    projectPath: Temp\UnityTempFile-db293140b7bcea240b9021d658fb2ca3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e1b6aa714d94f564fa180326c0ca1a41
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-e1b6aa714d94f564fa180326c0ca1a41
+    projectPath: Temp\UnityTempFile-e1b6aa714d94f564fa180326c0ca1a41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ed3ec97997d8f494f86a7110a0262e92
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-ed3ec97997d8f494f86a7110a0262e92
+    projectPath: Temp\UnityTempFile-ed3ec97997d8f494f86a7110a0262e92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ed955213d6ce6c343a35912a6f9cd3c4
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-ed955213d6ce6c343a35912a6f9cd3c4
+    projectPath: Temp\UnityTempFile-ed955213d6ce6c343a35912a6f9cd3c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f2797e771a6085645aecbeeda44fba43
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-f2797e771a6085645aecbeeda44fba43
+    projectPath: Temp\UnityTempFile-f2797e771a6085645aecbeeda44fba43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f6ecab51783b3184d86bca99ed372097
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-f6ecab51783b3184d86bca99ed372097
+    projectPath: Temp\UnityTempFile-f6ecab51783b3184d86bca99ed372097
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f80ed7c0cfc886142b5a4fbff449112f
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-f80ed7c0cfc886142b5a4fbff449112f
+    projectPath: Temp\UnityTempFile-f80ed7c0cfc886142b5a4fbff449112f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fea512844e3c5a24ba3796648a0d6276
+    fullPath: D:\Kuliah\PemSim\Pemsim_UAS\Temp\UnityTempFile-fea512844e3c5a24ba3796648a0d6276
+    projectPath: Temp\UnityTempFile-fea512844e3c5a24ba3796648a0d6276
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
