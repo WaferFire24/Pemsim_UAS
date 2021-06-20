@@ -1,0 +1,1 @@
+var Coords = {tlx: 105.3464, tly: -6.7498, brx: 105.3764, bry: -6.7798};var POI = [{x: 105.351, y:-6.76, title: "MarkasA"}, {x: 105.3691, y:-6.754, title: "MarkasB"}];
