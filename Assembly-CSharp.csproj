@@ -90,8 +90,9 @@
      <Compile Include="Assets\Infinity Code\Real World Terrain\Scripts\Utils\RealWorldTerrainTriangulator.cs" />
      <Compile Include="Assets\Infinity Code\Real World Terrain\Scripts\Containers\RealWorldTerrainBuilding.cs" />
      <Compile Include="Assets\Infinity Code\Real World Terrain\Scripts\Utils\RealWorldTerrainReflectionHelper.cs" />
-     <Compile Include="Assets\Infinity Code\Real World Terrain\Scripts\Containers\RealWorldTerrainGeocodingObject.cs" />
      <Compile Include="Assets\Scripts\SceneMove.cs" />
+     <Compile Include="Assets\Infinity Code\Real World Terrain\Scripts\Containers\RealWorldTerrainGeocodingObject.cs" />
+     <Compile Include="Assets\Scripts\CamSwitch.cs" />
      <None Include="Assets\Infinity Code\Real World Terrain\Shaders\Water.shader" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
