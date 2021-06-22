@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using InfinityCode.RealWorldTerrain;
@@ -9,6 +9,7 @@ public class bulletScript : MonoBehaviour
     [HideInInspector] float t = 0;
     [HideInInspector] float timeScale = 1f;
     [SerializeField] GameObject delThis;
+    public GameObject trace;
     private Vector3 posAwal;
     
     void Start() {
@@ -23,7 +24,7 @@ public class bulletScript : MonoBehaviour
             Debug.Log("Bullet out of VOID");
             Destroy(delThis);
         }
-        //Instantiate(trace, transform.position, transform.rotation)
+        Instantiate(trace, transform.position, transform.rotation);
     }
     
     private void OnTriggerEnter(Collider other) {

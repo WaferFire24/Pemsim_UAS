@@ -3,7 +3,9 @@ guid: 2ac905c371eea1341b1fec74209c6cd1
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - delThis: {instanceID: 0}
+  - traceBullet: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
