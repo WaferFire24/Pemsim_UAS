@@ -13,210 +13,72 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-06-22T16:47:24.876+07:00
-  initializedAtString: 2021-06-22T16:22:58.895+07:00
+  lastUpdatedAtString: 2021-06-22T18:53:19.293+07:00
+  initializedAtString: 2021-06-22T18:49:26.546+07:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Assets\Model\Material\MaterialTrace.mat
+    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assets\Model\Material\MaterialTrace.mat
+    projectPath: Assets\Model\Material\MaterialTrace.mat
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor.csproj
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assembly-CSharp-Editor.csproj
-    projectPath: Assembly-CSharp-Editor.csproj
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Model\Material\MaterialTrace.mat.meta
+    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assets\Model\Material\MaterialTrace.mat.meta
+    projectPath: Assets\Model\Material\MaterialTrace.mat.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Model\Bullet.prefab
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assets\Model\Bullet.prefab
-    projectPath: Assets\Model\Bullet.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Model\Material\Materail_Bullet.mat
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assets\Model\Material\Materail_Bullet.mat
-    projectPath: Assets\Model\Material\Materail_Bullet.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Model\Material\trace.prefab
     fullPath: D:\Kodingan\Github\Pemsim_UAS\Assets\Model\Material\trace.prefab
     projectPath: Assets\Model\Material\trace.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Model\Material\trace.prefab.meta
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assets\Model\Material\trace.prefab.meta
-    projectPath: Assets\Model\Material\trace.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\MainScene.unity
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assets\Scenes\MainScene.unity
-    projectPath: Assets\Scenes\MainScene.unity
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\SceneMove.cs
+    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assets\Scripts\SceneMove.cs
+    projectPath: Assets\Scripts\SceneMove.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\bulletScript.cs
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assets\Scripts\bulletScript.cs
-    projectPath: Assets\Scripts\bulletScript.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\bulletScript.cs.meta
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assets\Scripts\bulletScript.cs.meta
-    projectPath: Assets\Scripts\bulletScript.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\traceBehaviour.cs
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assets\Scripts\traceBehaviour.cs
-    projectPath: Assets\Scripts\traceBehaviour.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\traceBehaviour.cs.meta
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Assets\Scripts\traceBehaviour.cs.meta
-    projectPath: Assets\Scripts\traceBehaviour.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\0d\0def41829f1ed688406a577d661618b1
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\0d\0def41829f1ed688406a577d661618b1
-    projectPath: Library\Artifacts\0d\0def41829f1ed688406a577d661618b1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\19\190c452de347e40d8fe9a316059642fa
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\19\190c452de347e40d8fe9a316059642fa
-    projectPath: Library\Artifacts\19\190c452de347e40d8fe9a316059642fa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1a\1abf248b381b8f952fdee57e55cd7ac0
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\1a\1abf248b381b8f952fdee57e55cd7ac0
-    projectPath: Library\Artifacts\1a\1abf248b381b8f952fdee57e55cd7ac0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1b\1b43b7c2d778b1c5e5e77b51d738c460
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\1b\1b43b7c2d778b1c5e5e77b51d738c460
-    projectPath: Library\Artifacts\1b\1b43b7c2d778b1c5e5e77b51d738c460
+  - path: Library\Artifacts\2f\2fb166207c896c069e37dc97c29ba5cd
+    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\2f\2fb166207c896c069e37dc97c29ba5cd
+    projectPath: Library\Artifacts\2f\2fb166207c896c069e37dc97c29ba5cd
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\24\245e07785c2ad343f55bc916e20895c7
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\24\245e07785c2ad343f55bc916e20895c7
-    projectPath: Library\Artifacts\24\245e07785c2ad343f55bc916e20895c7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\27\279c37766d34ae8664993ac2da544a52
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\27\279c37766d34ae8664993ac2da544a52
-    projectPath: Library\Artifacts\27\279c37766d34ae8664993ac2da544a52
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\34\348132540aaeb89ab552587a4e2f0014
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\34\348132540aaeb89ab552587a4e2f0014
-    projectPath: Library\Artifacts\34\348132540aaeb89ab552587a4e2f0014
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4e\4edf538a15f948e2a31798078315eca6
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\4e\4edf538a15f948e2a31798078315eca6
-    projectPath: Library\Artifacts\4e\4edf538a15f948e2a31798078315eca6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4f\4f6dc9afaf3717a3baafd737dd3b0529
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\4f\4f6dc9afaf3717a3baafd737dd3b0529
-    projectPath: Library\Artifacts\4f\4f6dc9afaf3717a3baafd737dd3b0529
+  - path: Library\Artifacts\65\65a8190faca334eec43c8ad11fa9b862
+    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\65\65a8190faca334eec43c8ad11fa9b862
+    projectPath: Library\Artifacts\65\65a8190faca334eec43c8ad11fa9b862
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\57\575675d9191b1b50c958c623e31330a8
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\57\575675d9191b1b50c958c623e31330a8
-    projectPath: Library\Artifacts\57\575675d9191b1b50c958c623e31330a8
+  - path: Library\Artifacts\6e\6ed2a1abbadab09cc114fd908d92e8d3
+    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\6e\6ed2a1abbadab09cc114fd908d92e8d3
+    projectPath: Library\Artifacts\6e\6ed2a1abbadab09cc114fd908d92e8d3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\60\6010bb694336d329f885c772efd5cac1
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\60\6010bb694336d329f885c772efd5cac1
-    projectPath: Library\Artifacts\60\6010bb694336d329f885c772efd5cac1
+  - path: Library\Artifacts\6f\6fd7a686d07f750cc608b503b7328b7f
+    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\6f\6fd7a686d07f750cc608b503b7328b7f
+    projectPath: Library\Artifacts\6f\6fd7a686d07f750cc608b503b7328b7f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\72\7252696d98dbfd87017d50c6a3bf89f0
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\72\7252696d98dbfd87017d50c6a3bf89f0
-    projectPath: Library\Artifacts\72\7252696d98dbfd87017d50c6a3bf89f0
+  - path: Library\Artifacts\79\79f80944cf5bd5710c77aa217cb9c7be
+    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\79\79f80944cf5bd5710c77aa217cb9c7be
+    projectPath: Library\Artifacts\79\79f80944cf5bd5710c77aa217cb9c7be
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\7e\7eae7af901551d02e5e129d5e28bd270
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\7e\7eae7af901551d02e5e129d5e28bd270
-    projectPath: Library\Artifacts\7e\7eae7af901551d02e5e129d5e28bd270
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\85\85acb076dfdfdc9c6a3722cd7de7884a
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\85\85acb076dfdfdc9c6a3722cd7de7884a
-    projectPath: Library\Artifacts\85\85acb076dfdfdc9c6a3722cd7de7884a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\86\86232cca5a9832c138f9a1d3a04e71d5
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\86\86232cca5a9832c138f9a1d3a04e71d5
-    projectPath: Library\Artifacts\86\86232cca5a9832c138f9a1d3a04e71d5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\8c\8c38e77d7afc32f4ea7fa3b616eda0d7
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\8c\8c38e77d7afc32f4ea7fa3b616eda0d7
-    projectPath: Library\Artifacts\8c\8c38e77d7afc32f4ea7fa3b616eda0d7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\94\9443a61c265a8c300e3861ca35dd1617
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\94\9443a61c265a8c300e3861ca35dd1617
-    projectPath: Library\Artifacts\94\9443a61c265a8c300e3861ca35dd1617
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\99\998137f89047c588877bf56b427f247e
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\99\998137f89047c588877bf56b427f247e
-    projectPath: Library\Artifacts\99\998137f89047c588877bf56b427f247e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a3\a3c71aeb8790db435d118ab68ee7d654
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\a3\a3c71aeb8790db435d118ab68ee7d654
-    projectPath: Library\Artifacts\a3\a3c71aeb8790db435d118ab68ee7d654
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b1\b1a9c8a207b121f40718a784288d4585
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\b1\b1a9c8a207b121f40718a784288d4585
-    projectPath: Library\Artifacts\b1\b1a9c8a207b121f40718a784288d4585
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b6\b62c3a98cf0ca258ba398137837abc18
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\b6\b62c3a98cf0ca258ba398137837abc18
-    projectPath: Library\Artifacts\b6\b62c3a98cf0ca258ba398137837abc18
+  - path: Library\Artifacts\92\925f52813c7f2c160ba4d64069e42d73
+    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\92\925f52813c7f2c160ba4d64069e42d73
+    projectPath: Library\Artifacts\92\925f52813c7f2c160ba4d64069e42d73
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -224,80 +86,14 @@ MonoBehaviour:
     fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\bb\bba7bfa78a8eb6282c78e3fc8ab7228a
     projectPath: Library\Artifacts\bb\bba7bfa78a8eb6282c78e3fc8ab7228a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bd\bdb683d5edea2f68a9c092b9c469b1ef
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\bd\bdb683d5edea2f68a9c092b9c469b1ef
-    projectPath: Library\Artifacts\bd\bdb683d5edea2f68a9c092b9c469b1ef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bd\bdc63adec2c29abd7d896eb7b6d403b5
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\bd\bdc63adec2c29abd7d896eb7b6d403b5
-    projectPath: Library\Artifacts\bd\bdc63adec2c29abd7d896eb7b6d403b5
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\c9\c9dcc5461c64c1340531e8a3e354f860
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\c9\c9dcc5461c64c1340531e8a3e354f860
-    projectPath: Library\Artifacts\c9\c9dcc5461c64c1340531e8a3e354f860
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ce\ce5e47e44ebfe8d1eabc835896e94620
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\ce\ce5e47e44ebfe8d1eabc835896e94620
-    projectPath: Library\Artifacts\ce\ce5e47e44ebfe8d1eabc835896e94620
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d1\d11fbeff408182403872fe78f294d805
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\d1\d11fbeff408182403872fe78f294d805
-    projectPath: Library\Artifacts\d1\d11fbeff408182403872fe78f294d805
+  - path: Library\Artifacts\ce\ce6c1fdbc243e2babe41038528cc6805
+    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\ce\ce6c1fdbc243e2babe41038528cc6805
+    projectPath: Library\Artifacts\ce\ce6c1fdbc243e2babe41038528cc6805
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\d6\d6dad8b7c837b33da9f342deb48ba88f
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\d6\d6dad8b7c837b33da9f342deb48ba88f
-    projectPath: Library\Artifacts\d6\d6dad8b7c837b33da9f342deb48ba88f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\db\dbe530d6fa81ce8cd9e3f277cb007ca6
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\db\dbe530d6fa81ce8cd9e3f277cb007ca6
-    projectPath: Library\Artifacts\db\dbe530d6fa81ce8cd9e3f277cb007ca6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\df\dfa6755ef2d94e7de590e9a54e0ecf79
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\df\dfa6755ef2d94e7de590e9a54e0ecf79
-    projectPath: Library\Artifacts\df\dfa6755ef2d94e7de590e9a54e0ecf79
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\eb\eba504e1130edddc59ce05479a431767
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\eb\eba504e1130edddc59ce05479a431767
-    projectPath: Library\Artifacts\eb\eba504e1130edddc59ce05479a431767
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ee\ee199cb28b7d3a5c72b2263ae59fe485
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\ee\ee199cb28b7d3a5c72b2263ae59fe485
-    projectPath: Library\Artifacts\ee\ee199cb28b7d3a5c72b2263ae59fe485
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fc\fc5445af5c1ce5ca581a65691c36eabd
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\Artifacts\fc\fc5445af5c1ce5ca581a65691c36eabd
-    projectPath: Library\Artifacts\fc\fc5445af5c1ce5ca581a65691c36eabd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -364,138 +160,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\2\25a7cbea677c1baa34b552e6ff6a01db.bin
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\ShaderCache\2\25a7cbea677c1baa34b552e6ff6a01db.bin
-    projectPath: Library\ShaderCache\2\25a7cbea677c1baa34b552e6ff6a01db.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\54\5402649b8e16fbd95cbf43ea7a637c04.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\MainStageHierarchy\54\5402649b8e16fbd95cbf43ea7a637c04.json
-    projectPath: Library\StateCache\MainStageHierarchy\54\5402649b8e16fbd95cbf43ea7a637c04.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\MainStageHierarchy\6b\6b997f818dc26332f95897c9af158dac.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\MainStageHierarchy\6b\6b997f818dc26332f95897c9af158dac.json
-    projectPath: Library\StateCache\MainStageHierarchy\6b\6b997f818dc26332f95897c9af158dac.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\StateCache\MainStageHierarchy\8c\8cd395be6c075ef3b16bed315bdd6543.json
     fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\MainStageHierarchy\8c\8cd395be6c075ef3b16bed315bdd6543.json
     projectPath: Library\StateCache\MainStageHierarchy\8c\8cd395be6c075ef3b16bed315bdd6543.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\d9\d9e0df3de2b982f5b3a1d0f059293a0c.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\MainStageHierarchy\d9\d9e0df3de2b982f5b3a1d0f059293a0c.json
-    projectPath: Library\StateCache\MainStageHierarchy\d9\d9e0df3de2b982f5b3a1d0f059293a0c.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\MainStageHierarchy\e5\e5eeb88def265c7b44a33aa2ce976110.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\MainStageHierarchy\e5\e5eeb88def265c7b44a33aa2ce976110.json
-    projectPath: Library\StateCache\MainStageHierarchy\e5\e5eeb88def265c7b44a33aa2ce976110.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\PrefabStageHierarchy\3b\3b3a174e97fbec0df2c6406354a50e6e.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\PrefabStageHierarchy\3b\3b3a174e97fbec0df2c6406354a50e6e.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\3b\3b3a174e97fbec0df2c6406354a50e6e.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\PrefabStageHierarchy\ce\ce9c8b45b5e0252447484d76f1b628c8.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\PrefabStageHierarchy\ce\ce9c8b45b5e0252447484d76f1b628c8.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\ce\ce9c8b45b5e0252447484d76f1b628c8.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\11\11d23d8b6480a6e9865eea9ee5f31107.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\SceneView\11\11d23d8b6480a6e9865eea9ee5f31107.json
-    projectPath: Library\StateCache\SceneView\11\11d23d8b6480a6e9865eea9ee5f31107.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\6c\6c40a2f9b1c0eb1410eb7175ec1368f6.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\SceneView\6c\6c40a2f9b1c0eb1410eb7175ec1368f6.json
-    projectPath: Library\StateCache\SceneView\6c\6c40a2f9b1c0eb1410eb7175ec1368f6.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\7f\7f87480ba0fc25ce196d298560ee9f90.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\SceneView\7f\7f87480ba0fc25ce196d298560ee9f90.json
-    projectPath: Library\StateCache\SceneView\7f\7f87480ba0fc25ce196d298560ee9f90.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\90\902b2e272ee80bd81ea0b2e0ba1afc65.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\SceneView\90\902b2e272ee80bd81ea0b2e0ba1afc65.json
-    projectPath: Library\StateCache\SceneView\90\902b2e272ee80bd81ea0b2e0ba1afc65.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\a0\a0428c1a0a027c185c01668e0ae15db5.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\SceneView\a0\a0428c1a0a027c185c01668e0ae15db5.json
-    projectPath: Library\StateCache\SceneView\a0\a0428c1a0a027c185c01668e0ae15db5.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\b6\b6787023dec6708ee92ac1f160a89f78.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\SceneView\b6\b6787023dec6708ee92ac1f160a89f78.json
-    projectPath: Library\StateCache\SceneView\b6\b6787023dec6708ee92ac1f160a89f78.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\bd\bdd07616aabcb6f190cedb6c83d0ff6a.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\SceneView\bd\bdd07616aabcb6f190cedb6c83d0ff6a.json
-    projectPath: Library\StateCache\SceneView\bd\bdd07616aabcb6f190cedb6c83d0ff6a.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\c2\c2f3a93097f0d733e3c043c7ad24d048.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\SceneView\c2\c2f3a93097f0d733e3c043c7ad24d048.json
-    projectPath: Library\StateCache\SceneView\c2\c2f3a93097f0d733e3c043c7ad24d048.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\cd\cd23d3d039f32ae5f5ad1bb609f2abe6.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\SceneView\cd\cd23d3d039f32ae5f5ad1bb609f2abe6.json
-    projectPath: Library\StateCache\SceneView\cd\cd23d3d039f32ae5f5ad1bb609f2abe6.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\d0\d096b0f2bcce0b87877590297a310f9b.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\SceneView\d0\d096b0f2bcce0b87877590297a310f9b.json
-    projectPath: Library\StateCache\SceneView\d0\d096b0f2bcce0b87877590297a310f9b.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\e8\e8bea0c8b073af18d12de1f2e2292cb5.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\SceneView\e8\e8bea0c8b073af18d12de1f2e2292cb5.json
-    projectPath: Library\StateCache\SceneView\e8\e8bea0c8b073af18d12de1f2e2292cb5.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\f8\f859df0b1cc36cbca436f28ab0d3a594.json
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Library\StateCache\SceneView\f8\f859df0b1cc36cbca436f28ab0d3a594.json
-    projectPath: Library\StateCache\SceneView\f8\f859df0b1cc36cbca436f28ab0d3a594.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Logs\AssetImportWorker0.log
     fullPath: D:\Kodingan\Github\Pemsim_UAS\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
@@ -514,33 +190,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pemsim_UAS.sln
-    fullPath: D:\Kodingan\Github\Pemsim_UAS\Pemsim_UAS.sln
-    projectPath: Pemsim_UAS.sln
+  - path: ProjectSettings\InputManager.asset
+    fullPath: D:\Kodingan\Github\Pemsim_UAS\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
